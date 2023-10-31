@@ -1,2 +1,2 @@
-LSTM time-series temperature expectation
+LSTM Time-series Monthly Temperature Expectation
 =============
